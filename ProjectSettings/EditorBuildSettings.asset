@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 99c181c0ff8e7384c8abfa77e1aa8845
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 1f86e7aa17c3fa949b8c96534a43111b
+  - enabled: 1
+    path: Assets/Scenes/Troop.unity
+    guid: 6c79fd84e7ec7cf46a8842e69d8c3c4f
+  - enabled: 1
+    path: Assets/Scenes/Powerup.unity
+    guid: 74a71320d462ee04488f9ecd9ed99f9a
+  - enabled: 1
+    path: Assets/Scenes/Battle.unity
+    guid: 3036b9c3c16fd33479122a7d95e4a5dc
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: f4eae16fbb415324388597914621eaf1
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 811ee67106f60ce4c80acaece119396d
+  - enabled: 1
+    path: Assets/Scenes/Defeat.unity
+    guid: f8cf5ce117a75c84ab7981747d2be4a1
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 4dc030da0c866d140ba4aefab67d0390
+  m_configObjects: {}
